@@ -1,6 +1,8 @@
+[Link to my github](https://github.com/dgole)
+
 # Astrophysics
 ------
-[Unfinished Professional CV](/pdfs/Proffessional_CV.pdf)
+[Unfinished Professional CV](/pages/cvPage.md)
 
 ### Links to published papers: 
 [Turbulence, Transport, and Waves in Ohmic Dead Zones](http://adsabs.harvard.edu/abs/2016ApJ...826...18G)  
