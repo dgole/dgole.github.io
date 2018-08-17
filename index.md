@@ -1,3 +1,10 @@
+---
+layout: page
+title: simple site
+tagline: Easy websites with GitHub Pages
+description: Minimal tutorial on making a simple website with GitHub Pages
+---
+
 # Astrophysics
 ------
 ### Links to published papers: 
@@ -10,4 +17,4 @@
 
 # Other Projects
 ------
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
