@@ -22,3 +22,4 @@
 # Music Stuff
 ------
 [Gluten for Punishment](https://www.facebook.com/GlutenForPunishmentMusic/?notif_id=1534178407949821&notif_t=page_fan)
+[Acappella Arrangements](/pages/arrangements.md)
