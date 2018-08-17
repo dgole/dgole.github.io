@@ -17,6 +17,8 @@
 
 # Other Projects
 ------
-[test link to another page](/pages/testPage.md)
+[Audio-reactive LED lights](/pages/audioReactiveLights.md)  
 
+# Music Stuff
+------
 [Gluten for Punishment](https://www.facebook.com/GlutenForPunishmentMusic/?notif_id=1534178407949821&notif_t=page_fan)
