@@ -8,7 +8,7 @@
 [Turbulence, Transport, and Waves in Ohmic Dead Zones (2016)](http://adsabs.harvard.edu/abs/2016ApJ...826...18G)  
 [Substructure in Bulk Velocities of Milky Way Disk Stars (2014)](http://adsabs.harvard.edu/abs/2013ApJ...777L...5C) 
 
-### Other Presentations:  
+### Presentations:  
 [Talk Slides: Star and Planet Fromation in the Southwest 2 (2018)](https://www.noao.edu/meetings/spf2/files/gole_final.pdf)  
 [Talk: Kavli Institute Disks Meeting (2017)](http://online.kitp.ucsb.edu/online/disks17/gole/)  
 [Poster Abstract: The LAMOST Pilot Survey: Metallicities, Velocities, and Proper Motions (2013)](http://adsabs.harvard.edu/abs/2013AAS...22125416G)   
