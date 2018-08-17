@@ -1,5 +1,6 @@
----
-title: Resources for Teaching Undergraduate Astrobiology
----
+<header>
+Things to Do
+============
+</header>
 
 [Link to course material](https://drive.google.com/drive/folders/1lwGYNbwBcBa00fkWA5ZcEcPg8GNc4btk?usp=sharing)
