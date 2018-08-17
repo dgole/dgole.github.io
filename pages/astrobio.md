@@ -1,6 +1,4 @@
-<header>
-Things to Do
-============
-</header>
+Credit to...
+Educational purposes only...
 
-[Link to course material](https://drive.google.com/drive/folders/1lwGYNbwBcBa00fkWA5ZcEcPg8GNc4btk?usp=sharing)
+[Link to google drive with course material](https://drive.google.com/drive/folders/1lwGYNbwBcBa00fkWA5ZcEcPg8GNc4btk?usp=sharing)
