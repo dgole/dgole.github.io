@@ -20,7 +20,8 @@
 # Other Projects
 ------
 [Audio-reactive LED lights](/pages/audioReactiveLights.md)  
-[N-Way Chess Clock](/pages/nWayChessClock.md)
+[N-Way Chess Clock](/pages/nWayChessClock.md)  
+[Settlers of Catan Die Roll Tracker](/pages/catanRollTracker.md)
 
 # Music Stuff
 ------
