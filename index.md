@@ -1,4 +1,4 @@
-[Unfinished Professional CV](/pages/cvPage.md)
+[Unfinished Professional CV](/pages/cvPage.md)  
 [Link to my github](https://github.com/dgole)
 
 # Astrophysics
