@@ -14,7 +14,7 @@
 [Poster Abstract: The LAMOST Pilot Survey: Metallicities, Velocities, and Proper Motions (2013)](http://adsabs.harvard.edu/abs/2013AAS...22125416G)   
 [Poster Abstract: Wiyn Open Cluster Study: UBVRI CCD Photometry of the Open Cluster NGC 581 (2012)](http://adsabs.harvard.edu/abs/2012AAS...21943806D)  
 
-### Presentations    
+### Teaching    
 [Resources for teaching undergraduate astrobiology](/pages/astrobio.md)
 
 # Other Projects
