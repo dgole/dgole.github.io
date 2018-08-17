@@ -20,6 +20,7 @@
 # Other Projects
 ------
 [Audio-reactive LED lights](/pages/audioReactiveLights.md)  
+[N-Way Chess Clock](/pages/nWayChessClock.md)
 
 # Music Stuff
 ------
