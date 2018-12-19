@@ -5,6 +5,7 @@
 ------
 
 ### Links to published papers 
+[The Nature of Turbulence in the Outer Regions of Protoplanetary Disks](http://adsabs.harvard.edu/abs/2018arXiv181010549G)
 [Turbulence, Transport, and Waves in Ohmic Dead Zones (2016)](http://adsabs.harvard.edu/abs/2016ApJ...826...18G)  
 [Substructure in Bulk Velocities of Milky Way Disk Stars (2014)](http://adsabs.harvard.edu/abs/2013ApJ...777L...5C) 
 
