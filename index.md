@@ -16,7 +16,7 @@
 [Poster Abstract: Wiyn Open Cluster Study: UBVRI CCD Photometry of the Open Cluster NGC 581 (2012)](http://adsabs.harvard.edu/abs/2012AAS...21943806D)  
 
 ### Teaching    
-[Resources for teaching undergraduate astrobiology](/pages/astrobio.md)
+[Resources for teaching undergraduate astrobiology: The Search For Life in the Universe](/pages/astrobio.md)
 
 # Other Projects
 ------
