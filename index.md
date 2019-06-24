@@ -1,8 +1,10 @@
-[Unfinished Professional CV](/pages/cvPage.md)  
+[Resume](/pages/cv.md)  
 [Link to my github](https://github.com/dgole)
 
 # Astrophysics
 ------
+
+[PhD Thesis (2019): "Magnetic Fields and Turbulence in Protoplanetary Disks"](/pages/thesis.md)  
 
 ### Published Papers
 [The Nature of Turbulence in the Outer Regions of Protoplanetary Disks (2018)](http://adsabs.harvard.edu/abs/2018arXiv181010549G)  
