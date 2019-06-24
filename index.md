@@ -3,8 +3,7 @@
 [Resume](/pages/cv.md)  
 [Linkedin](https://www.linkedin.com/in/daniel-gole/)  
 [Github](https://github.com/dgole)
-
-If you want to get in touch with me, feel free to message me on Linkedin or send me an email at dgole100@gmail.com.
+If you want to get in touch with me, feel free to message me on Linkedin or send me an email at dgole100@gmail.com.  
 
 # Astrophysics
 ------
@@ -21,11 +20,12 @@ If you want to get in touch with me, feel free to message me on Linkedin or send
 [Poster Abstract: Wiyn Open Cluster Study: UBVRI CCD Photometry of the Open Cluster NGC 581 (2012)](http://adsabs.harvard.edu/abs/2012AAS...21943806D)  
 
 ### Teaching    
-[Resources for teaching undergraduate astrobiology: The Search For Life in the Universe](/pages/astrobio.md)
+[Resources for teaching undergraduate astrobiology: The Search For Life in the Universe](/pages/astrobio.md)  
 
 # Other Projects
 ------
 [Audio-Reactive LED Lights](/pages/audioReactiveLights.md)  
+[Outliers and Clusters in the NBA](/pages/audioReactiveLights.md)  
 [N-Way Chess Clock](/pages/nWayChessClock.md)  
 [Settlers of Catan Die Roll Tracker](/pages/catanRollTracker.md)
 
