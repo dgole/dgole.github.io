@@ -24,8 +24,8 @@ If you want to get in touch with me, feel free to message me on Linkedin or send
 [Resources for teaching undergraduate astrobiology: The Search For Life in the Universe](/pages/astrobio.md)  
 
 ### Codes  
-[Analyzing Athena and PLAN Output](gttps://github.com/dgole/athenaAnalysis_parSgTurb)  
-[Co-Dependent Modeling of the Surface Density and Net Magnetic Flux in a Disk](gttps://github.com/dgole/netFieldEvoV2)  
+[Analyzing Athena and PLAN Output](https://github.com/dgole/athenaAnalysis_parSgTurb)  
+[Co-Dependent Modeling of the Surface Density and Net Magnetic Flux in a Disk](https://github.com/dgole/netFieldEvoV2)  
 
 
 # Other Projects
