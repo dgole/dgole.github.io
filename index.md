@@ -29,7 +29,7 @@ If you want to get in touch with me, feel free to message me on Linkedin or send
 [N-Way Chess Clock](/pages/nWayChessClock.md)  
 [Settlers of Catan Die Roll Tracker](/pages/catanRollTracker.md)
 
-# Music Stuff
-------
-[Gluten for Punishment](https://www.facebook.com/GlutenForPunishmentMusic/?notif_id=1534178407949821&notif_t=page_fan)  
-[Acappella Arrangements](/pages/arrangements.md)
+[//]: # # Music Stuff
+[//]: # ------
+[//]: # [Gluten for Punishment](https://www.facebook.com/GlutenForPunishmentMusic/?notif_id=1534178407949821&notif_t=page_fan)  
+[//]: # [Acappella Arrangements](/pages/arrangements.md)
