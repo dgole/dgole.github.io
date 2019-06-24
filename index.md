@@ -2,7 +2,7 @@
 ------
 [Resume](/pages/cv.md)  
 [Linkedin](https://www.linkedin.com/in/daniel-gole/)  
-[Github](https://github.com/dgole)
+[Github](https://github.com/dgole)  
 If you want to get in touch with me, feel free to message me on Linkedin or send me an email at dgole100@gmail.com.  
 
 # Astrophysics
