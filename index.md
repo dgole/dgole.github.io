@@ -3,6 +3,7 @@
 [Resume](/pages/resume.md)  
 [Linkedin](https://www.linkedin.com/in/daniel-gole/)  
 [Github](https://github.com/dgole)  
+
 If you want to get in touch with me, feel free to message me on Linkedin or send me an email at dgole100@gmail.com.  
 
 # Astrophysics
@@ -22,8 +23,10 @@ If you want to get in touch with me, feel free to message me on Linkedin or send
 ### Teaching    
 [Resources for teaching undergraduate astrobiology: The Search For Life in the Universe](/pages/astrobio.md)  
 
-### Presentations  
-[Talk (just slides): Star and Planet Fromation in the Southwest 2 (2018)](https://www.noao.edu/meetings/spf2/files/gole_final.pdf)  
+### Codes  
+[Analyzing Athena and PLAN Output](gttps://github.com/dgole/athenaAnalysis_parSgTurb)
+[Co-Dependent Modeling of the Surface Density and Net Magnetic Flux in a Disk](gttps://github.com/dgole/netFieldEvoV2)  
+
 
 # Other Projects
 ------
