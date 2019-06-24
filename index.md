@@ -1,11 +1,14 @@
+# Professional Info
+------
 [Resume](/pages/cv.md)  
-[Link to my github](https://github.com/dgole)
+[Linkedin](https://www.linkedin.com/in/daniel-gole/)
+[Github](https://github.com/dgole)
+
+If you want to get in touch with me feel free to message me on Linkedin or send me an email at dgole100@gmail.com.
 
 # Astrophysics
 ------
-
 [PhD Thesis (2019): "Magnetic Fields and Turbulence in Protoplanetary Disks"](/pages/thesis.md)  
-
 ### Published Papers
 [The Nature of Turbulence in the Outer Regions of Protoplanetary Disks (2018)](http://adsabs.harvard.edu/abs/2018arXiv181010549G)  
 [Turbulence, Transport, and Waves in Ohmic Dead Zones (2016)](http://adsabs.harvard.edu/abs/2016ApJ...826...18G)  
