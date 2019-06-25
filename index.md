@@ -25,7 +25,7 @@ If you want to get in touch with me, feel free to message me on Linkedin or send
 
 ### Codes  
 [Analyzing Athena and PLAN Output](https://github.com/dgole/athenaAnalysis_parSgTurb)  
-[Co-Dependent Modeling of the Surface Density and Net Magnetic Flux in a Disk](https://github.com/dgole/netFieldEvoV2)  
+[Self-Consistent Time Evolution of the Surface Density and Net Magnetic Flux in a Disk](https://github.com/dgole/netFieldEvoV2)  
 
 
 # Other Projects
