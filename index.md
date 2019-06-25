@@ -9,6 +9,7 @@ If you want to get in touch with me, feel free to message me on Linkedin or send
 # Astrophysics
 ------
 [PhD Thesis (2019): Magnetic Fields and Turbulence in Protoplanetary Disks](/pages/thesis.md)  
+
 ### Published Papers
 [The Nature of Turbulence in the Outer Regions of Protoplanetary Disks (2018)](http://adsabs.harvard.edu/abs/2018arXiv181010549G)  
 [Turbulence, Transport, and Waves in Ohmic Dead Zones (2016)](http://adsabs.harvard.edu/abs/2016ApJ...826...18G)  
@@ -25,13 +26,13 @@ If you want to get in touch with me, feel free to message me on Linkedin or send
 
 ### Codes  
 [Analyzing Athena and PLAN Output](https://github.com/dgole/athenaAnalysis_parSgTurb)  
-[Self-Consistent Time Evolution of the Surface Density and Net Magnetic Flux in a Disk](https://github.com/dgole/netFieldEvoV2)  
+[Self Consistent Time Evolution of the Surface Density and Net Magnetic Flux in a Disk](https://github.com/dgole/netFieldEvoV2)  
 
 
 # Other Projects
 ------
-[Audio-Reactive LED Lights](/pages/audioReactiveLights.md)  
-[Outliers and Clusters in the NBA](/pages/audioReactiveLights.md)  
+[Audio-Reactive LED Lights](https://github.com/dgole/audioReactiveFadeCandy)  
+[Outliers and Clusters in the NBA](https://github.com/dgole/nba_clustering)  
 [N-Way Chess Clock](/pages/nWayChessClock.md)  
 [Settlers of Catan Die Roll Tracker](/pages/catanRollTracker.md)
 
