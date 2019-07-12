@@ -21,22 +21,22 @@ If you want to get in touch with me, feel free to message me on Linkedin or send
 [Poster Abstract: The LAMOST Pilot Survey: Metallicities, Velocities, and Proper Motions (2013)](http://adsabs.harvard.edu/abs/2013AAS...22125416G)   
 [Poster Abstract: Wiyn Open Cluster Study: UBVRI CCD Photometry of the Open Cluster NGC 581 (2012)](http://adsabs.harvard.edu/abs/2012AAS...21943806D)  
 
-### Teaching    
-[Resources for teaching undergraduate astrobiology: The Search For Life in the Universe](/pages/astrobio.md)  
-
-### Codes  
+### Research Codes  
 [Analyzing Athena and PLAN Output](https://github.com/dgole/athenaAnalysis_parSgTurb)  
 [Self Consistent Time Evolution of the Surface Density and Net Magnetic Flux in a Disk](https://github.com/dgole/netFieldEvoV2)  
 
+### Teaching    
+[Resources for teaching undergraduate astrobiology: The Search For Life in the Universe](/pages/astrobio.md)  
 
 # Other Projects
 ------
+### Fun Coding Projects
 [Audio-Reactive LED Lights](https://github.com/dgole/audioReactiveFadeCandy)  
 [Outliers and Clusters in the NBA](https://github.com/dgole/nba_clustering)  
+
+### Tools for Games
 [N-Way Chess Clock](/pages/nWayChessClock.md)  
 [Settlers of Catan Die Roll Tracker](/pages/catanRollTracker.md)
 
-[//]: # # Music Stuff
-[//]: # ------
-[//]: # [Gluten for Punishment](https://www.facebook.com/GlutenForPunishmentMusic/?notif_id=1534178407949821&notif_t=page_fan)  
-[//]: # [Acappella Arrangements](/pages/arrangements.md)
+### Music Stuff  
+[Acappella Arrangements](/pages/arrangements.md)
