@@ -40,4 +40,3 @@ If you want to get in touch with me, feel free to message me on Linkedin or send
 
 ### Music Stuff  
 [Acappella Arrangements](/pages/arrangements.md)  
-[comment]: # [Notebook Test](/pages/notebook_test.html)
