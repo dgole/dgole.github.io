@@ -39,5 +39,5 @@ If you want to get in touch with me, feel free to message me on Linkedin or send
 [Settlers of Catan Die Roll Tracker](/pages/catanRollTracker.md)
 
 ### Music Stuff  
-[Acappella Arrangements](/pages/arrangements.md)
-[Notebook Test] (/pages/notebook_test.html)
+[Acappella Arrangements](/pages/arrangements.md)  
+[Notebook Test](/pages/notebook_test.html)
