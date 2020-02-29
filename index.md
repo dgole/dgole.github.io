@@ -10,7 +10,8 @@ If you want to get in touch with me, feel free to message me on Linkedin or send
 ------
 [PhD Thesis (2019): Magnetic Fields and Turbulence in Protoplanetary Disks](/pages/thesis.md)  
 
-### Published Papers
+### Published Papers  
+[Turbulence Regulates the Rate of Planetesimal Formation via Gravitational Collapse (2020)](https://ui.adsabs.harvard.edu/abs/2020arXiv200110000G/abstract)  
 [The Nature of Turbulence in the Outer Regions of Protoplanetary Disks (2018)](http://adsabs.harvard.edu/abs/2018arXiv181010549G)  
 [Turbulence, Transport, and Waves in Ohmic Dead Zones (2016)](http://adsabs.harvard.edu/abs/2016ApJ...826...18G)  
 [Substructure in Bulk Velocities of Milky Way Disk Stars (2014)](http://adsabs.harvard.edu/abs/2013ApJ...777L...5C)  
